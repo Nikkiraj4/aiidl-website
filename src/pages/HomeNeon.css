@@ -1,0 +1,51 @@
+
+/* =========================================
+   NEON PORTFOLIO — SECTION BACKGROUNDS
+   ========================================= */
+
+:root {
+  --neon-cyan: #53f5ff;
+  --neon-blue: #6485ff;
+  --neon-violet: #a879ff;
+  --neon-pink: #ff70d9;
+  --neon-dark: #070910;
+  --neon-panel: rgba(15, 19, 35, 0.88);
+}
+
+.home-hero,
+.approach-section,
+.home-services,
+.home-projects,
+.home-closing-cta {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+/* Give each section its own visual identity */
+
+.home-hero {
+  background:
+    radial-gradient(ellipse at 78% 25%, rgba(83, 80, 255, 0.15), transparent 38%),
+    radial-gradient(ellipse at 12% 80%, rgba(0, 224, 255, 0.09), transparent 32%),
+    #070910;
+}
+
+.approach-section {
+  background:
+    radial-gradient(ellipse at 85% 50%, rgba(153, 89, 255, 0.13), transparent 38%),
+    linear-gradient(145deg, #0d1020 0%, #101023 50%, #090b14 100%);
+}
+
+.home-services {
+  background:
+    radial-gradient(ellipse at 10% 15%, rgba(0, 221, 255, 0.09), transparent 35%),
+    linear-gradient(160deg, #080d16, #0b1020 55%, #090a12);
+}
+
+.home-projects {
+  background:
+    radial-gradient(ellipse at 80% 20%, rgba(255, 80, 202, 0.10), transparent 35%),
+    radial-gradient(ellipse at 15% 75%, rgba(110, 91, 255, 0.12), transparent 35%),
+    #0b0a;
+}
