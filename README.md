@@ -119,7 +119,6 @@ aiidl-website/
 │   ├── pages/
 │   │   ├── Home.jsx
 │   │   ├── Home.css
-│   │   ├── HomeNeon.css
 │   │   ├── ServiceDetail.jsx
 │   │   ├── ServiceDetail.css
 │   │   ├── Contact.jsx
