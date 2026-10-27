@@ -157,14 +157,6 @@ aiidl-website/
 
 ## Screenshots
 
-Capture the homepage at desktop and mobile widths and save the images in a `screenshots/` directory.
-
-Recommended filenames:
-
-- `screenshots/home-desktop.png`
-- `screenshots/home-mobile.png`
-
-Once the images are added to the repository, include them using:
 
 ```markdown
 ### Desktop Homepage
