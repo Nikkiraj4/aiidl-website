@@ -187,9 +187,6 @@ Any additional external references or AI tools used should be disclosed accurate
 - Expand accessibility and cross-browser testing.
 - Remove unused starter assets where appropriate.
 
-## Time Spent
-
-**Total development time:** Add your actual approximate time spent on the assignment.
 
 ## Author
 
