@@ -158,15 +158,13 @@ aiidl-website/
 ## Screenshots
 
 
-```markdown
 ### Desktop Homepage
 
-![Desktop homepage](screenshots/home-desktop.png)
+![Desktop Homepage](./screenshots/home-desktop.png)
 
 ### Mobile Homepage
 
-![Mobile homepage](screenshots/home-mobile.png)
-```
+![Mobile Homepage](./screenshots/home-mobile.png)
 
 ## AI and Reference Disclosure
 
@@ -178,7 +176,6 @@ AI assistance was used during development to support implementation, troubleshoo
 
 AI-assisted suggestions were reviewed and adapted to the project structure. Styling adjustments were made to improve the visibility of section headings and contact form labels. A production build was run to verify that the project compiled successfully.
 
-Any additional external references or AI tools used should be disclosed accurately.
 
 ## Limitations and Future Improvements
 
